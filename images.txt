@@ -1,1 +1,1 @@
-ollama/ollama
+openai/stable_diffusion_webui
