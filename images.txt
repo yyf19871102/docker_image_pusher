@@ -1,1 +1,4 @@
-openai/stable_diffusion_webui
+# openai/stable_diffusion_webui
+
+# 2024-11-18
+ghcr.io/abetlen/llama-cpp-python:latest
