@@ -4,4 +4,7 @@
 #ghcr.io/abetlen/llama-cpp-python:latest
 
 # 2024-11-21
-vllm/vllm-openai:latest
+#vllm/vllm-openai:latest
+
+# 2021-11-22
+hqlgree2/vllm-openai:v0.2.7_cu118
