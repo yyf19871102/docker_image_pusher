@@ -6,5 +6,8 @@
 # 2024-11-21
 #vllm/vllm-openai:latest
 
-# 2021-11-22
-hqlgree2/vllm-openai:v0.2.7_cu118
+# 2024-11-22
+#hqlgree2/vllm-openai:v0.2.7_cu118
+
+# 2024-12-24
+mongo:latest
