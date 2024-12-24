@@ -10,4 +10,7 @@
 #hqlgree2/vllm-openai:v0.2.7_cu118
 
 # 2024-12-24
-mongo:latest
+#mongo:latest
+
+# 2024-12-24
+node:19
