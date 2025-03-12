@@ -1,4 +1,4 @@
-# openai/stable_diffusion_webui
+openai/stable_diffusion_webui
 
 # 2024-11-18
 #ghcr.io/abetlen/llama-cpp-python:latest
@@ -16,4 +16,4 @@
 #node:19
 
 # 2025-02-13
-redis:6.2.6
+#redis:6.2.6
