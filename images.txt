@@ -19,4 +19,4 @@
 #redis:6.2.6
 
 # 2025-03-13
-siutin/stable-diffusion-webui-docker
+gpulab.tencentcloudcr.com/ai/stable-diffusion:1.0.7
