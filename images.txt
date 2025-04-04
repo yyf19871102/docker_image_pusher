@@ -22,4 +22,7 @@
 #gpulab.tencentcloudcr.com/ai/stable-diffusion:1.0.7
 
 # 2025-03-24
-universonic/stable-diffusion-webui
+#universonic/stable-diffusion-webui
+
+# 2025-04-04
+yanwk/comfyui-boot:cu124-cn
