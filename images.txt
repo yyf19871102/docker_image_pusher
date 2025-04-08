@@ -25,4 +25,7 @@
 #universonic/stable-diffusion-webui
 
 # 2025-04-04
-yanwk/comfyui-boot:cu124-cn
+#yanwk/comfyui-boot:cu124-cn
+
+# 2025-04-08
+qwenllm/qwenvl:2.5-cu121
