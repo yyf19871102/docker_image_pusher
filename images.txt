@@ -28,7 +28,7 @@
 #yanwk/comfyui-boot:cu124-cn
 
 # 2025-04-08
-qwenllm/qwenvl:2.5-cu121
+#qwenllm/qwenvl:2.5-cu121
 
 # 2025-05-13
 vllm/vllm-openai:0.8.5
