@@ -31,4 +31,8 @@
 #qwenllm/qwenvl:2.5-cu121
 
 # 2025-05-13
-vllm/vllm-openai:v0.8.5
+#vllm/vllm-openai:v0.8.5
+
+# 2025-05-15
+mongo:8.0.9
+
