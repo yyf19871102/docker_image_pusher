@@ -61,4 +61,7 @@
 #ghcr.io/abetlen/llama-cpp-python:v0.3.5
 
 # 2025-05-22
-nvcr.io/nvidia/pytorch:24.12-py3
+#nvcr.io/nvidia/pytorch:24.12-py3
+
+# 2025-05-23
+cnk3x/xunlei:v3.20.2
