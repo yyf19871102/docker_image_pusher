@@ -67,4 +67,7 @@
 #cnk3x/xunlei:v3.20.2
 
 # 2025-05-26
-yusiwen/llama.cpp:b5162
+#yusiwen/llama.cpp:b5162
+
+# 2025-05-26
+ghcr.io/ggml-org/llama.cpp:full
