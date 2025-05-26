@@ -64,4 +64,7 @@
 #nvcr.io/nvidia/pytorch:24.12-py3
 
 # 2025-05-23
-cnk3x/xunlei:v3.20.2
+#cnk3x/xunlei:v3.20.2
+
+# 2025-05-26
+yusiwen/llama.cpp:b5162
