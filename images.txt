@@ -70,4 +70,7 @@
 #yusiwen/llama.cpp:b5162
 
 # 2025-05-26
-ghcr.io/ggml-org/llama.cpp:full
+#ghcr.io/ggml-org/llama.cpp:full
+
+# 2025-05-26
+pytorch/pytorch:2.7.0-cuda12.8-cudnn9-devel
