@@ -85,7 +85,7 @@
 #nvcr.io/nvidia/pytorch:25.01-py3
 
 # 2025-06-04
-hiyouga/llamafactory:latest
+#hiyouga/llamafactory:latest
 
 # 2025-06-25
 #ollama/ollama:0.9.2
