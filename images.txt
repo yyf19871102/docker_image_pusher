@@ -94,4 +94,4 @@
 #mcr.microsoft.com/playwright:bionic
 
 # 2025-07-14
-neo4j:5.26.9
+neo4j:5.26.9-community
