@@ -94,4 +94,7 @@
 #mcr.microsoft.com/playwright:bionic
 
 # 2025-07-14
-neo4j:5.26.9-community
+#neo4j:5.26.9-community
+
+# 2025-08-19
+vllm/vllm-openai:v0.10.1
