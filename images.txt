@@ -100,4 +100,7 @@
 #vllm/vllm-openai:v0.10.1
 
 # 2025-08-20
-lmsysorg/sglang:v0.4.9.post6-cu128-b200
+#lmsysorg/sglang:v0.4.9.post6-cu128-b200
+
+# 2025-08-20
+python:3.12.11
