@@ -97,4 +97,7 @@
 #neo4j:5.26.9-community
 
 # 2025-08-19
-vllm/vllm-openai:v0.10.1
+#vllm/vllm-openai:v0.10.1
+
+# 2025-08-20
+lmsysorg/sglang:v0.4.9.post6-cu128-b200
