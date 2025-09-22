@@ -109,4 +109,7 @@
 #--platform linux/arm/v5 python:3.5.10
 
 # 2025-09-22
-multiarch/qemu-user-static
+#multiarch/qemu-user-static
+
+# 2025-09-22
+--platform linux/arm64/v8 python:3.5.10
