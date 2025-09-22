@@ -106,4 +106,7 @@
 #python:3.12.11
 
 # 2025-09-22
---platform linux/arm/v5 python:3.5.10
+#--platform linux/arm/v5 python:3.5.10
+
+# 2025-09-22
+multiarch/qemu-user-static
