@@ -112,4 +112,7 @@
 #multiarch/qemu-user-static
 
 # 2025-09-22
---platform linux/arm64/v8 python:3.5.10
+#--platform linux/arm64/v8 python:3.5.10
+
+# 2025-09-23
+moby/buildkit:buildx-stable-1
