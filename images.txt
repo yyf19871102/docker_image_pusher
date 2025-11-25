@@ -118,4 +118,7 @@
 #moby/buildkit:buildx-stable-1
 
 # 2025-09-23
-python:3.5.10
+#python:3.5.10
+
+# 2025-11-25
+linuxserver/ffmpeg:8.0-cli-ls47
