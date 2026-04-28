@@ -127,4 +127,7 @@
 #ollama/ollama:0.13.5
 
 # 2026-04-15
-ollama/ollama:0.20.7
+#ollama/ollama:0.20.7
+
+# 2026-04-28
+ollama/ollama:0.21.2
