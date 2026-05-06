@@ -130,4 +130,7 @@
 #ollama/ollama:0.20.7
 
 # 2026-04-28
-ollama/ollama:0.21.2
+#ollama/ollama:0.21.2
+
+# 2026-05-06
+vllm/vllm-openai:v0.20.1-cu129
