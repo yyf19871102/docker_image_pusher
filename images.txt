@@ -148,4 +148,7 @@
 #elasticsearch:8.4.1
 
 # 2026-05-27
-mongodb/mongodb-community-server:4.4.30-ubi8
+#mongodb/mongodb-community-server:4.4.30-ubi8
+
+# 2026-05-27
+minio/minio:RELEASE.2023-03-20T20-16-18Z
