@@ -145,4 +145,7 @@
 #fabric8/java-centos-openjdk8-jdk:1.8
 
 # 2026-05-27
-elasticsearch:8.4.1
+#elasticsearch:8.4.1
+
+# 2026-05-27
+mongodb/mongodb-community-server:4.4.30-ubi8
