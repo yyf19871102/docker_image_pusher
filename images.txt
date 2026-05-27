@@ -136,4 +136,7 @@
 #vllm/vllm-openai:v0.20.1-cu129
 
 # 2026-05-11
-elasticsearch:7.5.1
+# elasticsearch:7.5.1
+
+# 2026-05-27
+elasticsearch:8.5.3
