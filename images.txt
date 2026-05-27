@@ -142,4 +142,7 @@
 #elasticsearch:8.5.3
 
 # 2026-05-27
-fabric8/java-centos-openjdk8-jdk:1.8
+#fabric8/java-centos-openjdk8-jdk:1.8
+
+# 2026-05-27
+elasticsearch:8.4.1
