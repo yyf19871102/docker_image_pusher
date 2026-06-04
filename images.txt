@@ -160,4 +160,7 @@
 #redis:6.2.0
 
 # 2026-05-27
-zookeeper:3.8.4
+#zookeeper:3.8.4
+
+# 2026-06-04
+milvusdb/milvus:v2.4.24-gpu
