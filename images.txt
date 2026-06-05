@@ -165,5 +165,8 @@
 # 2026-06-04
 #milvusdb/milvus:v2.4.24-gpu
 
-#
-ghcr.io/huggingface/text-generation-inference:latest
+# 2026-06-05
+#ghcr.io/huggingface/text-generation-inference:latest
+
+#2026-06-04
+csdnmirrors/qwen3-reranker-0.6b
