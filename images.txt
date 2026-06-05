@@ -163,4 +163,7 @@
 #zookeeper:3.8.4
 
 # 2026-06-04
-milvusdb/milvus:v2.4.24-gpu
+#milvusdb/milvus:v2.4.24-gpu
+
+#
+ghcr.io/huggingface/text-generation-inference:latest
