@@ -169,4 +169,4 @@
 #ghcr.io/huggingface/text-generation-inference:latest
 
 #2026-06-04
-csdnmirrors/qwen3-reranker-0.6b
+dengcao/vllm-openai:v0.9.2
