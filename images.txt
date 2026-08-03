@@ -172,4 +172,7 @@
 #dengcao/vllm-openai:v0.9.2
 
 #2026-07-11
-gogs/gogs:0.14
+#gogs/gogs:0.14
+
+#2026-08-03
+python:3.11-slim
