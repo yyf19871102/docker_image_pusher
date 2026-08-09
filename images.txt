@@ -184,4 +184,6 @@
 #vllm/vllm-openai:v0.25.1
 
 # 2026-08-07
-vllm/vllm-openai:v0.26.0-cu129
+#vllm/vllm-openai:v0.26.0-cu129
+
+ghcr.io/ggml-org/llama.cpp:server
