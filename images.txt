@@ -46,4 +46,8 @@
 #ollama/ollama:0.32.6
 
 # 2026-08-20
-ollama/ollama:0.32.15
+#ollama/ollama:0.32.15
+
+# 2026-09-11
+nikobraz/ninfer:v1.0.2
+
