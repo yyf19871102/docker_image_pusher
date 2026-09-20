@@ -49,5 +49,7 @@
 #ollama/ollama:0.32.15
 
 # 2026-09-11
-nikobraz/ninfer:v1.0.2
+#nikobraz/ninfer:v1.0.2
 
+# 2026-09-20
+apache/kafka:4.3.1
