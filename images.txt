@@ -55,4 +55,7 @@
 #apache/kafka:4.3.1
 
 # 2026-09-21
-python:3.12.14-slim
+#python:3.12.14-slim
+
+# 2026-10-28
+--platform=linux/arm64 python:3.5.10-slim
