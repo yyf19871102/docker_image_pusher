@@ -39,6 +39,16 @@ jobs:
         # remove-codeql: 'true'
         build-mount-path: '/var/lib/docker/'
 
+    - name: Redirect containerd storage to large disk
+      run: |
+        sudo mkdir -p /mnt/large-disk/containerd
+        sudo systemctl stop containerd
+        # 如果 /var/lib/containerd 已有数据，先移走
+        sudo mv /var/lib/containerd/* /mnt/large-disk/containerd/ 2>/dev/null || true
+        # 用绑定挂载将新位置挂载到原路径
+        sudo mount --bind /mnt/large-disk/containerd /var/lib/containerd
+        sudo systemctl start containerd
+
     - name: Restart docker
       run: sudo service docker restart
 
