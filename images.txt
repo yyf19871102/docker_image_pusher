@@ -61,4 +61,4 @@
 #--platform=linux/arm64 python:3.5.10-slim
 
 # 2026-11-23
-elasticsearch:8.17.10
+elasticsearch:8.17.1
