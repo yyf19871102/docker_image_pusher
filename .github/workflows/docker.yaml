@@ -39,6 +39,19 @@ jobs:
         # remove-codeql: 'true'
         build-mount-path: '/var/lib/docker/'
 
+    - name: Aggressively free up root partition space
+      run: |
+        echo "Before aggressive cleanup:"
+        df -h /
+        sudo rm -rf /usr/share/dotnet \
+                    /opt/ghc \
+                    /usr/local/lib/android \
+                    /opt/hostedtoolcache/CodeQL \
+                    /usr/local/share/powershell \
+                    /usr/share/swift
+        echo "After aggressive cleanup:"
+        df -h /
+
     - name: Redirect containerd storage to large disk
       run: |
         sudo mkdir -p /mnt/large-disk/containerd
